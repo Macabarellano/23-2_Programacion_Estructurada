@@ -1,0 +1,5 @@
+﻿  2023_03_22_003_INOUT_V1.cpp
+C:\Users\Amk29\Desktop\Progra_Mau_No_borrar\23-2_Programacion_Estructurada\2023_03_22_003_INOUT_V1\2023_03_22_003_INOUT_V1.cpp(18,10): warning C4091: '': se ha omitido a la izquierda de 'float' cuando no hay ninguna variable declarada
+C:\Users\Amk29\Desktop\Progra_Mau_No_borrar\23-2_Programacion_Estructurada\2023_03_22_003_INOUT_V1\2023_03_22_003_INOUT_V1.cpp(19,9): warning C4091: '': se ha omitido a la izquierda de 'char' cuando no hay ninguna variable declarada
+C:\Users\Amk29\Desktop\Progra_Mau_No_borrar\23-2_Programacion_Estructurada\2023_03_22_003_INOUT_V1\2023_03_22_003_INOUT_V1.cpp(20,16): warning C4091: '': se ha omitido a la izquierda de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' cuando no hay ninguna variable declarada
+  2023_03_22_003_INOUT_V1.vcxproj -> C:\Users\Amk29\Desktop\Progra_Mau_No_borrar\23-2_Programacion_Estructurada\2023_03_22_003_INOUT_V1\Debug\2023_03_22_003_INOUT_V1.exe
