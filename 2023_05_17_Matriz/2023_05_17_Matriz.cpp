@@ -18,19 +18,19 @@ int main()
 	//Sizeof edades, edades[], edades[][]
 	*/
 	//Declarar la matriz
-	int mat[3][3];
+	int mat[5][5];
 	//Ingresar datos aleatorios a la matriz
-	for (int i = 0; i < 3; i++)//ciclo para acceder a filas
+	for (int i = 0; i < 5; i++)//ciclo para acceder a filas
 	{
-		for (int j = 0; j < 3; j++)//Ciclo para acceder a columnas
+		for (int j = 0; j < 5; j++)//Ciclo para acceder a columnas
 		{
-			mat[i][j] = rand() % 10;
+			mat[i][j] = rand() % 10;//Damos un valor Rand a la matriz
 		}
 	}
 	//Imprimir toda la matriz 
-	for (int i = 0; i < 3; i++)//ciclo para acceder a filas
+	for (int i = 0; i < 5; i++)//ciclo para acceder a filas
 	{
-		for (int j = 0; j < 3; j++)//Ciclo para acceder a columnas
+		for (int j = 0; j < 5; j++)//Ciclo para acceder a columnas
 		{
 			std::cout <<mat[i][j]<< " ";
 		}

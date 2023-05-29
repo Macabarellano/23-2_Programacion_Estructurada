@@ -19,16 +19,16 @@ int main()
 
     //Punteros
     int Edad = 0;
-    int* apuntador = &Edad;
+    int* luis = &Edad;
 
     std::cout << "El valor de la edad: " << Edad
         << std::endl;
-    std::cout << "El valor del puntero: " << apuntador
+    std::cout << "El valor del puntero: " << luis
         << std::endl;
-    std::cout << "El valor de la variable apuntada: " << *apuntador
+    std::cout << "El valor de la variable apuntada: " << *luis
         << std::endl;
-    std::cout << "El valor de la dirección apuntada: " << &apuntador
+    std::cout << "El valor de la dirección apuntada: " << &luis
         << std::endl;
-    //borrar apuntador
-    apuntador = NULL;
+    //borrar luis
+    luis = NULL;
 }
